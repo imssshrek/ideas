@@ -3,4 +3,6 @@ This repository is a collection of ideas for articles, contents and features at 
 
 Feel free to add ideas and mark taken ideas as "done".
 
+Contact: support@razeware.com
+
 ABCDEFG
